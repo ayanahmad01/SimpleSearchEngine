@@ -1,0 +1,21 @@
+button{
+    background-color: grey;
+    color: white;
+    border: 1px;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+input[type = text]{
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+body{
+    text-align: center;
+}
+.resultTable{
+    display: inline-block;
+}
