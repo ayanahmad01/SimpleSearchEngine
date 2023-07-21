@@ -25,7 +25,7 @@
   
     The front end sends requests to the back end, and the back end fulfills the requests and generates responses.
 
-  Technologies used-
+  Technologies used- 
 
     HTML is used for the front end, which is responsible for creating the structure of the web page.
 
@@ -46,6 +46,26 @@
   # MySQL Database
 
     In this project, MySQL is used as our Relational Database Management System (RDBMS) to store our collections of data.
+
+
+* SEARCH ENGINE-
+
+![SE1](https://github.com/ayanahmad01/SimpleSearchEngine/assets/136154821/13f9c931-f1bd-4e9b-8b5e-ea6ae70c56be)
+
+
+* SEARCHING-
+
+![SE2](https://github.com/ayanahmad01/SimpleSearchEngine/assets/136154821/8045cd7f-4954-49e3-9835-7c183946a3bc)
+
+
+* HISTORY-
+
+![SE3](https://github.com/ayanahmad01/SimpleSearchEngine/assets/136154821/78797634-fc65-47ef-b777-6a3d584f6613)
+
+
+
+
+  
 
 
 
